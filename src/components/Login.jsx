@@ -25,7 +25,6 @@ export default function Login() {
 
   return (
     <div id='login-page'>
-        <NavBar></NavBar>
       <div id='login-card'>
         <h2>Chat App</h2>
 
